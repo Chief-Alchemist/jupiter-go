@@ -1,4 +1,4 @@
-module github.com/ilkamo/jupiter-go
+module github.com/Chief-Alchemist/jupiter-go
 
 go 1.21
 
